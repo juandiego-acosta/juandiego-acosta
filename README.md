@@ -2,8 +2,8 @@
 
 Estudiante de último semestre de **Ingeniería en Desarrollo de Software** en el CETI Colomos (Guadalajara, México). Me gusta construir apps completas: desde la interfaz hasta el servidor y su despliegue.
 
-🔎 **Busco mi primera oportunidad como desarrollador junior o practicante.**
-🌐 Portafolio: [juandiego-acosta.github.io](https://juandiego-acosta.github.io)
+- 🔎 **Busco mi primera oportunidad como desarrollador junior o practicante.**
+- 🌐 Portafolio: [juandiego-acosta.github.io](https://juandiego-acosta.github.io)
 
 ## Proyecto destacado: Fluilet
 
@@ -23,7 +23,7 @@ App de lectura asistida por inteligencia artificial que adapta textos y PDF al n
 
 ## Tecnologías
 
-**Lenguajes:** Kotlin · Java · Python · JavaScript · PHP · SQL · HTML/CSS
-**Móvil y backend:** Jetpack Compose · FastAPI · SQLAlchemy · Retrofit · Room
-**Bases de datos:** PostgreSQL · MySQL · SQLite
-**Herramientas:** Git · GitHub Actions · Linux · Nginx
+- **Lenguajes:** Kotlin · Java · Python · JavaScript · PHP · SQL · HTML/CSS
+- **Móvil y backend:** Jetpack Compose · FastAPI · SQLAlchemy · Retrofit · Room
+- **Bases de datos:** PostgreSQL · MySQL · SQLite
+- **Herramientas:** Git · GitHub Actions · Linux · Nginx
