@@ -4,6 +4,7 @@ Estudiante de último semestre de **Ingeniería en Desarrollo de Software** en e
 
 - 🔎 **Busco mi primera oportunidad como desarrollador junior o practicante.**
 - 🌐 Portafolio: [juandiego-acosta.github.io](https://juandiego-acosta.github.io)
+- 💼 LinkedIn: [linkedin.com/in/juandiego-acosta](https://www.linkedin.com/in/juandiego-acosta)
 
 ## Proyecto destacado: Fluilet
 
