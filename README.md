@@ -11,7 +11,7 @@ Estudiante de último semestre de **Ingeniería en Desarrollo de Software** en e
 App de lectura asistida por inteligencia artificial que adapta textos y PDF al nivel de lectura de cada persona. Hice todo el desarrollo técnico.
 
 - 📱 [fluilet-android](https://github.com/juandiego-acosta/fluilet-android): Kotlin, Jetpack Compose, Hilt, Retrofit, MVVM y 55 pruebas unitarias
-- 🧠 [fluilet-backend](https://github.com/juandiego-acosta/fluilet-backend): Python, FastAPI, PostgreSQL, JWT, modelo mT5 en español, desplegado con Nginx y HTTPS
+- 🧠 [fluilet-backend](https://github.com/juandiego-acosta/fluilet-backend): Python, FastAPI, PostgreSQL, JWT, modelo de IA propio (regresión logística) para simplificar textos en español, desplegado con Nginx y HTTPS
 
 ## Otros proyectos
 
